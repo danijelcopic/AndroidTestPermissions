@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PermissionsTEST</string>
+    <string name="button">Send SMS</string>
+
+    <string name="send_sms_permission_available">Send SMS permission is available. Starting action.</string>
+    <string name="send_sms_access_required">Send SMS access is required.</string>
+    <string name="send_sms_access_granted">Send SMS access granted.</string>
+    <string name="send_sms_access_denied">Send SMS access denied.</string>
+
+
+    <string name="camera_permission_available">Camera permission is available. Starting action.</string>
+    <string name="camera_access_required">Camera access is required.</string>
+    <string name="camera_access_granted">Camera access granted.</string>
+    <string name="camera_access_denied">Camera access denied.</string>
+
+    <string name="ok">ok</string>
+    <string name="camera">Camera</string>
+
+</resources>
